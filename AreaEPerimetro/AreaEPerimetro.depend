@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652910157 source:e:\ips_projects\areaeperimetro\main.c
+	<stdio.h>
+	<stdlib.h>
+
