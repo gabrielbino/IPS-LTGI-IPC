@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1652753899 source:e:\ips_projects\task1\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
