@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653776669 source:e:\ips_projects\ipc\ficha_4\task06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+
